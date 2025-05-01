@@ -1,6 +1,6 @@
 # SIGAcademy
 
-**SIGAcademy** é um sistema de gerenciamento acadêmico online desenvolvido na disciplina de **Programação Web**. O projeto utiliza **Node.js**, **React**, **PostgreSQL**, e foi desenvolvido com as bibliotecas **Yarn**, **Yup**, e **bcrypt**. O sistema permite que alunos e professores interajam com as informações acadêmicas de maneira simples e eficiente.
+**SIGAcademy** é um sistema de gerenciamento acadêmico online. O projeto utiliza **Node.js**, **React**, **PostgreSQL**, e foi desenvolvido com as bibliotecas **Yarn**, **Yup**, e **bcrypt**. O sistema permite que alunos e professores interajam com as informações acadêmicas de maneira simples e eficiente.
 
 ## Descrição do Projeto
 
@@ -111,7 +111,3 @@ Se você deseja contribuir para o projeto, siga os passos abaixo:
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Essa versão está bem detalhada e cobre todos os pontos essenciais do projeto, incluindo as tecnologias utilizadas e como rodar a aplicação. Se precisar de algo mais, é só avisar!
